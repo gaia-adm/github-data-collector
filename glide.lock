@@ -1,0 +1,12 @@
+hash: 282305a6e9038577273a4d006b26d2e6a0b0201968533fbad522175d2f97da94
+updated: 2016-05-05T20:10:25.2277771+03:00
+imports:
+- name: github.com/google/go-github
+  version: 842c551fdeae14c97c04ef490f601ae4d849a00c
+  subpackages:
+  - github.com\google\go-github\github
+- name: github.com/google/go-querystring
+  version: 9235644dd9e52eeae6fa48efd539fdc351a0af53
+  subpackages:
+  - github.com\google\go-querystring\query
+devImports: []
