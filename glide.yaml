@@ -1,5 +1,5 @@
 package: github.com/gaia-adm/github-data-collector
 import:
-- package: github.com/google/go-github
+- package: github.com/Sirupsen/logrus
   subpackages:
-  - github.com\google\go-github\github
+  - github.com\Sirupsen\logrus
